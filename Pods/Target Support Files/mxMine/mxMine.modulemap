@@ -1,0 +1,6 @@
+framework module mxMine {
+  umbrella header "mxMine-umbrella.h"
+
+  export *
+  module * { export * }
+}

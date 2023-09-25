@@ -1,0 +1,6 @@
+framework module HCDeviceInfo {
+  umbrella header "HCDeviceInfo-umbrella.h"
+
+  export *
+  module * { export * }
+}

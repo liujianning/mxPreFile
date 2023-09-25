@@ -1,0 +1,36 @@
+{
+  "name": "mxnefile",
+  "version": "0.0.1",
+  "summary": "A short description of mxnefile.",
+  "description": "A short description of mxnefile.",
+  "homepage": "https://github.com/liujianning/mxNeFile.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "DN": "1274898099@qq.com"
+  },
+  "platforms": {
+    "ios": "12.0"
+  },
+  "source": {
+    "git": "https://github.com/liujianning/mxNeFile.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "MX_NetworkFile",
+    "MXNetwork/MX_NetworkFile/**/*.{h,m}"
+  ],
+  "dependencies": {
+    "AFNetworking": [
+      "~> 4.0.0"
+    ],
+    "HCDeviceInfo": [
+
+    ],
+    "BasicClass": [
+
+    ]
+  }
+}

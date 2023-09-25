@@ -1,0 +1,43 @@
+{
+  "name": "mxMine",
+  "version": "0.0.1",
+  "summary": "A short description of mxMine.",
+  "description": "A short description of mxMine.",
+  "homepage": "https://github.com/liujianning/mxMine.git",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "DN": "1274898099@qq.com"
+  },
+  "platforms": {
+    "ios": "12.0"
+  },
+  "source": {
+    "git": "https://github.com/liujianning/mxMine.git",
+    "tag": "0.0.1"
+  },
+  "source_files": [
+    "MX_MeFile",
+    "Runner/MX_MeFile/**/*.{h,m}"
+  ],
+  "prefix_header_file": "Runner/PrefixHeader.pch",
+  "dependencies": {
+    "MJExtension": [
+
+    ],
+    "GoogleSignIn": [
+
+    ],
+    "FBSDKLoginKit": [
+
+    ],
+    "BasicClass": [
+
+    ],
+    "mxnefile": [
+
+    ]
+  }
+}

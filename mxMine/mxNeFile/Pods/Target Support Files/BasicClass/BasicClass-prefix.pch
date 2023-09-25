@@ -1,0 +1,35 @@
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+#else
+#ifndef FOUNDATION_EXPORT
+#if defined(__cplusplus)
+#define FOUNDATION_EXPORT extern "C"
+#else
+#define FOUNDATION_EXPORT extern
+#endif
+#endif
+#endif
+
+//
+//  PrefixHeader.pch
+//  coolIt
+//
+//  Created by dn on 2023/9/19.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "HTBaseModel.h"
+#import "NSObject+Toast.h"
+#import "PostCommon_Config.h"
+#import "PostCommon_Enum.h"
+#import "UIColor+ColorValue.h"
+#import "Masonry.h"
+#import "LKFPrivateFunction.h"
+#import "HTMutilangManager.h"
+
+
+
+
+#endif /* PrefixHeader_pch */

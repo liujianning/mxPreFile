@@ -1,0 +1,6 @@
+framework module BasicClass {
+  umbrella header "BasicClass-umbrella.h"
+
+  export *
+  module * { export * }
+}

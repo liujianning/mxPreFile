@@ -1,0 +1,6 @@
+framework module SRPeriod {
+  umbrella header "SRPeriod-umbrella.h"
+
+  export *
+  module * { export * }
+}

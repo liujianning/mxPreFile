@@ -1,0 +1,23 @@
+//
+//  PrefixHeader.pch
+//  coolIt
+//
+//  Created by dn on 2023/9/19.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "HTBaseModel.h"
+#import "NSObject+Toast.h"
+#import "PostCommon_Config.h"
+#import "PostCommon_Enum.h"
+#import "UIColor+ColorValue.h"
+#import "Masonry.h"
+#import "LKFPrivateFunction.h"
+#import "HTMutilangManager.h"
+
+
+
+
+#endif /* PrefixHeader_pch */

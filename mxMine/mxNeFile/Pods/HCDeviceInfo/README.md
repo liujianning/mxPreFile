@@ -1,0 +1,2 @@
+# HCDeviceInfo
+HCDeviceInfo
